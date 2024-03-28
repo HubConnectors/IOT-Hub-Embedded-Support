@@ -22,17 +22,29 @@ IoT-Hub-Embedded为物联网设备提供了可靠、高效的连接和通信解�
 
 ## 现有硬件项目实践：
 
-#### 1. ESP32智能控制终端(开发中)
+#### 1. ESP32智能控制终端(暂停)
 
 ​		详情查看：[ESP32_CentralController](https://github.com/HubConnectors/ESP32_CentralController)
 
 #### 2. ESP32环境监测节点(开发中)
 
-​		详情查看：[ESP32_EnvironmentalTerminal](https://github.com/HubConnectors/ESP32_EnvironmentalTerminal)	
+​		详情查看：[ESP32_EnvNode](https://github.com/HubConnectors/ESP32_EnvNode)	
 
 #### 3. ESP32智能门锁(开发中)
 
 ​		详情查看：[ESP32_DoorLock](https://github.com/HubConnectors/ESP32_DoorLock)	
+
+#### 4. ESP32网关(开发中)
+
+​		详情查看：[ESP32_Gateway](https://github.com/IOTHubNode/ESP32_Gateway)	
+
+#### 5. ESP32通用继电器模块(开发中)
+
+​		详情查看：[ESP32_RelayModule](https://github.com/IOTHubNode/ESP32_RelayModule)
+
+#### 6. Lora数据采集节点(开发中)
+
+​		详情查看：[LoRa_Node](https://github.com/IOTHubNode/LoRa_Node)	
 
 ## 参与贡献
 您想贡献吗？阅读我们的[贡献指南](./docs/CONTRIBUTING.md)以了解更多信息。有很多方法可以提供帮助！😃
